@@ -1,2 +1,2 @@
 def index(request):
-    return "Hello world"
+    return "Under construction"
